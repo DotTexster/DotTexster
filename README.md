@@ -2,4 +2,4 @@
 <h3 align="center"> 
   Un estudiante de programacion en Mexico
 </3>
-<img src="griff-v-guts-pixel.gif"/>
+<img src="griff-v-guts-pixel.gif" align="right"/>
